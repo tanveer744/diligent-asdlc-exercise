@@ -1,0 +1,51 @@
+order_id,order_date,customer_name,email,city,state,product_name,category,quantity,unit_price,item_total,order_total,order_status,payment_method,payment_date,payment_status
+19,2024-11-12,Rohit Gupta,rohit.gupta@rediffmail.com,Kolkata,West Bengal,HP DeskJet Printer,Electronics,1,4999,4999,5698,Delivered,Credit Card,2024-11-12,Success
+19,2024-11-12,Rohit Gupta,rohit.gupta@rediffmail.com,Kolkata,West Bengal,Milton Thermosteel Flask,Home & Kitchen,1,699,699,5698,Delivered,Credit Card,2024-11-12,Success
+20,2024-11-12,Sanjay Rao,sanjay.rao@gmail.com,Chennai,Tamil Nadu,Levi's Men's Jeans,Fashion,1,2499,2499,2498,Shipped,Debit Card,2024-11-12,Success
+60,2024-11-12,Naveen Reddy,naveen.reddy@gmail.com,Hyderabad,Telangana,Nike Air Max Shoes,Fashion,1,7999,7999,8998,Delivered,Credit Card,2024-11-12,Success
+60,2024-11-12,Naveen Reddy,naveen.reddy@gmail.com,Hyderabad,Telangana,Woodland Leather Wallet,Fashion,1,999,999,8998,Delivered,Credit Card,2024-11-12,Success
+60,2024-11-12,Naveen Reddy,naveen.reddy@gmail.com,Hyderabad,Telangana,Mi Power Bank 20000mAh,Electronics,1,1899,1899,8998,Delivered,Credit Card,2024-11-12,Success
+17,2024-11-11,Amit Patel,amit.patel@gmail.com,Ahmedabad,Gujarat,Prestige Omega Deluxe Granite Kadai,Home & Kitchen,1,1249,1249,1249,Delivered,Cash on Delivery,2024-11-11,Success
+18,2024-11-11,Vikram Singh,vikram.singh@gmail.com,New Delhi,Delhi,Fossil Analog Watch,Fashion,1,6499,6499,6499,Processing,UPI,2024-11-11,Pending
+58,2024-11-11,Puneet Sharma,puneet.sharma@gmail.com,Noida,Uttar Pradesh,Hawkins Futura Pressure Cooker,Home & Kitchen,1,2199,2199,2199,Delivered,Cash on Delivery,2024-11-11,Success
+58,2024-11-11,Puneet Sharma,puneet.sharma@gmail.com,Noida,Uttar Pradesh,Bajaj Majesty RCX 5 Rice Cooker,Home & Kitchen,1,2199,2199,2199,Delivered,Cash on Delivery,2024-11-11,Success
+59,2024-11-11,Chetna Gupta,chetna.gupta@outlook.com,Pune,Maharashtra,Sony WH-1000XM5 Headphones,Electronics,1,29999,29999,29999,Processing,UPI,2024-11-11,Pending
+59,2024-11-11,Chetna Gupta,chetna.gupta@outlook.com,Pune,Maharashtra,Logitech MX Master 3 Mouse,Electronics,2,7999,15998,29999,Processing,UPI,2024-11-11,Pending
+15,2024-11-10,Nikhil Verma,nikhil.verma@gmail.com,Kolkata,West Bengal,Mi Power Bank 20000mAh,Electronics,1,1899,1899,1899,Shipped,UPI,2024-11-10,Success
+16,2024-11-10,Rajesh Kumar,rajesh.kumar@gmail.com,Mumbai,Maharashtra,Red Tape Casual Shoes,Fashion,1,2199,2199,4998,Delivered,Debit Card,2024-11-10,Success
+16,2024-11-10,Rajesh Kumar,rajesh.kumar@gmail.com,Mumbai,Maharashtra,JBL Go 3 Speaker,Electronics,1,2799,2799,4998,Delivered,Debit Card,2024-11-10,Success
+56,2024-11-10,Rajeev Nambiar,rajeev.nambiar@gmail.com,Kochi,Kerala,Realme Smart TV 43 inch,Electronics,1,26999,26999,26999,Delivered,UPI,2024-11-10,Success
+56,2024-11-10,Rajeev Nambiar,rajeev.nambiar@gmail.com,Kochi,Kerala,Wonderchef Granite Cookware Set,Home & Kitchen,1,3499,3499,26999,Delivered,UPI,2024-11-10,Success
+57,2024-11-10,Lakshmi Iyer,lakshmi.iyer@yahoo.com,Chennai,Tamil Nadu,Nike Air Max Shoes,Fashion,1,7999,7999,7999,Shipped,Debit Card,2024-11-10,Success
+57,2024-11-10,Lakshmi Iyer,lakshmi.iyer@yahoo.com,Chennai,Tamil Nadu,Allen Solly Women's Top,Fashion,1,899,899,7999,Shipped,Debit Card,2024-11-10,Success
+13,2024-11-09,Arjun Kapoor,arjun.kapoor@yahoo.com,Gurugram,Haryana,Hawkins Futura Pressure Cooker,Home & Kitchen,1,2499,2499,2499,Processing,Credit Card,2024-11-09,Pending
+14,2024-11-09,Divya Menon,divya.menon@gmail.com,Kochi,Kerala,Philips Air Fryer,Home & Kitchen,1,8999,8999,10798,Delivered,Net Banking,2024-11-09,Success
+14,2024-11-09,Divya Menon,divya.menon@gmail.com,Kochi,Kerala,Milton Thermosteel Flask,Home & Kitchen,1,699,699,10798,Delivered,Net Banking,2024-11-09,Success
+14,2024-11-09,Divya Menon,divya.menon@gmail.com,Kochi,Kerala,Tupperware Container Set,Home & Kitchen,1,1100,1100,10798,Delivered,Net Banking,2024-11-09,Success
+54,2024-11-09,Mohit Arora,mohit.arora@rediffmail.com,New Delhi,Delhi,Wonderchef Granite Cookware Set,Home & Kitchen,1,3499,3499,3499,Processing,UPI,2024-11-09,Pending
+54,2024-11-09,Mohit Arora,mohit.arora@rediffmail.com,New Delhi,Delhi,Prestige Omega Deluxe Granite Kadai,Home & Kitchen,1,1249,1249,3499,Processing,UPI,2024-11-09,Pending
+55,2024-11-09,Ritu Singh,ritu.singh@gmail.com,Lucknow,Uttar Pradesh,Red Tape Casual Shoes,Fashion,1,2199,2199,4998,Delivered,Credit Card,2024-11-09,Success
+55,2024-11-09,Ritu Singh,ritu.singh@gmail.com,Lucknow,Uttar Pradesh,JBL Go 3 Speaker,Electronics,1,2799,2799,4998,Delivered,Credit Card,2024-11-09,Success
+55,2024-11-09,Ritu Singh,ritu.singh@gmail.com,Lucknow,Uttar Pradesh,OnePlus Nord Buds 2,Electronics,1,2999,2999,4998,Delivered,Credit Card,2024-11-09,Success
+11,2024-11-08,Karan Mehta,karan.mehta@gmail.com,Ahmedabad,Gujarat,Cello Opalware Dinner Set,Home & Kitchen,1,1599,1599,1599,Delivered,Cash on Delivery,2024-11-08,Success
+12,2024-11-08,Pooja Joshi,pooja.joshi@gmail.com,Mumbai,Maharashtra,Peter England Formal Shirt,Fashion,2,1399,2798,8398,Shipped,UPI,2024-11-08,Success
+12,2024-11-08,Pooja Joshi,pooja.joshi@gmail.com,Mumbai,Maharashtra,JBL Go 3 Speaker,Electronics,2,2799,5598,8398,Shipped,UPI,2024-11-08,Success
+52,2024-11-08,Ashish Kumar,ashish.kumar@gmail.com,Patna,Bihar,Milton Thermosteel Flask,Home & Kitchen,1,699,699,699,Delivered,Debit Card,2024-11-08,Success
+52,2024-11-08,Ashish Kumar,ashish.kumar@gmail.com,Patna,Bihar,Milton Thermosteel Flask,Home & Kitchen,1,699,699,699,Delivered,Debit Card,2024-11-08,Success
+53,2024-11-08,Sonali Thakur,sonali.thakur@gmail.com,Patna,Bihar,Samsung Galaxy S23,Electronics,1,74999,74999,13498,Delivered,Net Banking,2024-11-08,Success
+53,2024-11-08,Sonali Thakur,sonali.thakur@gmail.com,Patna,Bihar,OnePlus Nord Buds 2,Electronics,2,2999,5998,13498,Delivered,Net Banking,2024-11-08,Success
+53,2024-11-08,Sonali Thakur,sonali.thakur@gmail.com,Patna,Bihar,Raymond Formal Trousers,Fashion,2,2799,5598,13498,Delivered,Net Banking,2024-11-08,Success
+9,2024-11-07,Sanjay Rao,sanjay.rao@gmail.com,Chennai,Tamil Nadu,Pigeon Pressure Cooker 5L,Home & Kitchen,1,1899,1899,1899,Delivered,UPI,2024-11-07,Success
+10,2024-11-07,Meera Iyer,meera.iyer@hotmail.com,Bangalore,Karnataka,Adidas Running Shoes,Fashion,2,4999,9998,9998,Delivered,Debit Card,2024-11-07,Success
+50,2024-11-07,Tarun Bansal,tarun.bansal@gmail.com,Jaipur,Rajasthan,Woodland Leather Wallet,Fashion,1,1299,1299,1299,Delivered,Cash on Delivery,2024-11-07,Success
+50,2024-11-07,Tarun Bansal,tarun.bansal@gmail.com,Jaipur,Rajasthan,HP DeskJet Printer,Electronics,1,4999,4999,1299,Delivered,Cash on Delivery,2024-11-07,Success
+51,2024-11-07,Megha Saxena,megha.saxena@hotmail.com,Lucknow,Uttar Pradesh,Adidas Running Shoes,Fashion,2,4999,9998,9998,Delivered,UPI,2024-11-07,Success
+51,2024-11-07,Megha Saxena,megha.saxena@hotmail.com,Lucknow,Uttar Pradesh,Allen Solly Women's Top,Fashion,1,899,899,9998,Delivered,UPI,2024-11-07,Success
+8,2024-11-06,Anjali Desai,anjali.desai@gmail.com,Pune,Maharashtra,Pigeon Pressure Cooker 5L,Home & Kitchen,1,1899,1899,3698,Shipped,Credit Card,2024-11-06,Success
+8,2024-11-06,Anjali Desai,anjali.desai@gmail.com,Pune,Maharashtra,Cello Opalware Dinner Set,Home & Kitchen,1,1799,1799,3698,Shipped,Credit Card,2024-11-06,Success
+48,2024-11-06,Siddharth Shah,siddharth.shah@yahoo.com,Ahmedabad,Gujarat,Raymond Formal Trousers,Fashion,1,2799,2799,2799,Shipped,Credit Card,2024-11-06,Success
+48,2024-11-06,Siddharth Shah,siddharth.shah@yahoo.com,Ahmedabad,Gujarat,Bajaj Majesty RCX 5 Rice Cooker,Home & Kitchen,1,2199,2199,2799,Shipped,Credit Card,2024-11-06,Success
+49,2024-11-06,Aarti Pillai,aarti.pillai@gmail.com,Chennai,Tamil Nadu,Noise ColorFit Pro 4,Electronics,1,3499,3499,5348,Delivered,UPI,2024-11-06,Success
+49,2024-11-06,Aarti Pillai,aarti.pillai@gmail.com,Chennai,Tamil Nadu,Boat Airdopes 141,Electronics,1,1849,1849,5348,Delivered,UPI,2024-11-06,Success
+49,2024-11-06,Aarti Pillai,aarti.pillai@gmail.com,Chennai,Tamil Nadu,Logitech MX Master 3 Mouse,Electronics,2,7999,15998,5348,Delivered,UPI,2024-11-06,Success
+6,2024-11-05,Kavita Nair,kavita.nair@gmail.com,Kochi,Kerala,OnePlus Nord Buds 2,Electronics,1,2999,2999,4498,Processing,UPI,2024-11-05,Pending

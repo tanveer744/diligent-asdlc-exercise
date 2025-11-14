@@ -6,6 +6,7 @@ to extract meaningful business insights.
 """
 
 import sqlite3
+import csv
 from pathlib import Path
 import logging
 
@@ -84,6 +85,7 @@ def run_queries():
     """
     script_dir = Path(__file__).parent
     db_path = script_dir / 'ecommerce.db'
+    output_csv = script_dir / 'query_output.csv'
     
     if not db_path.exists():
         logger.error(f"Database '{db_path}' not found. Run ingest_data.py first.")
@@ -123,6 +125,19 @@ def run_queries():
         LIMIT 50;
         """
         execute_query(cursor, query, "Complete Order Details - Multi-Table JOIN")
+        
+        # Save results to CSV
+        cursor.execute(query)
+        rows = cursor.fetchall()
+        columns = [desc[0] for desc in cursor.description]
+        
+        with open(output_csv, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(columns)
+            writer.writerows(rows)
+        
+        logger.info(f"Query results saved to: {output_csv}")
+        print(f"\n✓ Results saved to: query_output.csv")
         
     except sqlite3.Error as e:
         logger.error(f"Database error: {str(e)}")

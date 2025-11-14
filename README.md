@@ -28,8 +28,9 @@ diligent-ecommerce-data-pipeline/
 │   ├── order_items.csv     # Line items (200 rows)
 │   └── payments.csv        # Payment transactions (100 rows)
 ├── ingest_data.py          # Database ingestion script
-├── analytics_queries.py    # SQL query demonstrations
+├── analytics_queries.py    # SQL query script
 ├── ecommerce.db            # SQLite database (generated)
+├── query_output.csv        # Query results (generated)
 └── README.md
 ```
 
@@ -60,6 +61,7 @@ python analytics_queries.py
 - Complete order details joining 5 tables (orders, users, order_items, products, payments)
 - Shows customer information, product details, order status, and payment information
 - Demonstrates INNER and LEFT JOIN with proper relationships
+- Results saved to `query_output.csv` for documentation
 
 ## Key Features
 
