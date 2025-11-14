@@ -48,27 +48,25 @@ python ingest_data.py
 - Inserts all CSV rows with transaction management
 - Displays summary of loaded records
 
-### 2. Execute SQL Queries
+### 2. Execute SQL Query
 
-Run analytical queries demonstrating JOIN operations:
+Run the analytical query demonstrating multi-table JOIN operations:
 
 ```powershell
 python analytics_queries.py
 ```
 
-**Sample Queries:**
-- Complete order details with customer and payment information
-- Product sales performance and revenue analysis
-- Customer purchase summaries and spending patterns
-- Payment method preferences by geographic location
-- Category performance across states
+**Query Output:**
+- Complete order details joining 5 tables (orders, users, order_items, products, payments)
+- Shows customer information, product details, order status, and payment information
+- Demonstrates INNER and LEFT JOIN with proper relationships
 
 ## Key Features
 
 - **Zero Dependencies** - Uses only Python standard library (csv, sqlite3, pathlib, logging)
 - **Best Practices** - Proper error handling, logging, type inference, and SQL optimization
-- **Comprehensive JOINs** - Demonstrates INNER, LEFT joins with GROUP BY, HAVING, and aggregations
-- **Production Ready** - Transaction management, data validation, and detailed reporting
+- **Multi-Table JOIN** - Demonstrates INNER and LEFT joins across 5 related tables
+- **Production Ready** - Transaction management, data validation, and formatted table output
 
 ## AI-Assisted Development
 
