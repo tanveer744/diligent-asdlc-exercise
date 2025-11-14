@@ -1,0 +1,101 @@
+payment_id,order_id,payment_method,payment_date,amount,status
+1,1,UPI,2024-11-01,77498,Success
+2,2,Credit Card,2024-11-02,5348,Success
+3,3,Debit Card,2024-11-03,2850,Success
+4,4,UPI,2024-11-03,10498,Success
+5,5,Cash on Delivery,2024-11-04,699,Success
+6,6,UPI,2024-11-05,4498,Pending
+7,7,Net Banking,2024-11-05,26999,Success
+8,8,Credit Card,2024-11-06,3698,Success
+9,9,UPI,2024-11-07,1899,Success
+10,10,Debit Card,2024-11-07,9998,Success
+11,11,Cash on Delivery,2024-11-08,1599,Success
+12,12,UPI,2024-11-08,8398,Success
+13,13,Credit Card,2024-11-09,2499,Pending
+14,14,Net Banking,2024-11-09,10798,Success
+15,15,UPI,2024-11-10,1899,Success
+16,16,Debit Card,2024-11-10,4998,Success
+17,17,Cash on Delivery,2024-11-11,1249,Success
+18,18,UPI,2024-11-11,6499,Pending
+19,19,Credit Card,2024-11-12,5698,Success
+20,20,Debit Card,2024-11-12,2498,Success
+21,21,UPI,2024-10-15,8998,Success
+22,22,Credit Card,2024-10-16,3299,Success
+23,23,Net Banking,2024-10-17,12499,Success
+24,24,Cash on Delivery,2024-10-18,1599,Success
+25,25,UPI,2024-10-19,6297,Success
+26,26,Debit Card,2024-10-20,2850,Success
+27,27,UPI,2024-10-21,9998,Success
+28,28,Credit Card,2024-10-22,5599,Success
+29,29,Cash on Delivery,2024-10-23,1299,Success
+30,30,UPI,2024-10-24,4598,Success
+31,31,Net Banking,2024-10-25,26999,Success
+32,32,Debit Card,2024-10-26,2199,Success
+33,33,UPI,2024-10-27,1899,Success
+34,34,Credit Card,2024-10-28,14998,Success
+35,35,Cash on Delivery,2024-10-29,799,Success
+36,36,UPI,2024-10-30,7999,Success
+37,37,Debit Card,2024-10-31,3798,Success
+38,38,UPI,2024-11-01,29999,Pending
+39,39,Credit Card,2024-11-01,5348,Success
+40,40,Cash on Delivery,2024-11-02,1599,Success
+41,41,UPI,2024-11-02,12498,Success
+42,42,Debit Card,2024-11-03,2199,Success
+43,43,Net Banking,2024-11-03,4998,Success
+44,44,UPI,2024-11-04,10997,Success
+45,45,Credit Card,2024-11-04,1899,Success
+46,46,UPI,2024-11-05,6499,Pending
+47,47,Debit Card,2024-11-05,8998,Success
+48,48,Credit Card,2024-11-06,2799,Success
+49,49,UPI,2024-11-06,5348,Success
+50,50,Cash on Delivery,2024-11-07,1299,Success
+51,51,UPI,2024-11-07,9998,Success
+52,52,Debit Card,2024-11-08,699,Success
+53,53,Net Banking,2024-11-08,13498,Success
+54,54,UPI,2024-11-09,3499,Pending
+55,55,Credit Card,2024-11-09,4998,Success
+56,56,UPI,2024-11-10,26999,Success
+57,57,Debit Card,2024-11-10,7999,Success
+58,58,Cash on Delivery,2024-11-11,2199,Success
+59,59,UPI,2024-11-11,29999,Pending
+60,60,Credit Card,2024-11-12,8998,Success
+61,61,UPI,2024-10-10,5348,Success
+62,62,Net Banking,2024-10-11,12498,Success
+63,63,Debit Card,2024-10-12,2850,Success
+64,64,UPI,2024-10-13,7999,Success
+65,65,Credit Card,2024-10-14,1599,Success
+66,66,UPI,2024-09-20,9998,Success
+67,67,Debit Card,2024-09-21,3299,Success
+68,68,Net Banking,2024-09-22,6499,Success
+69,69,Cash on Delivery,2024-09-23,1899,Success
+70,70,UPI,2024-09-24,14998,Success
+71,71,Credit Card,2024-09-25,2199,Success
+72,72,UPI,2024-09-26,5348,Success
+73,73,Cash on Delivery,2024-09-27,799,Success
+74,74,Net Banking,2024-09-28,26999,Success
+75,75,UPI,2024-09-29,4998,Success
+76,76,Debit Card,2024-09-30,1299,Success
+77,77,UPI,2024-10-01,7999,Success
+78,78,Credit Card,2024-10-02,12498,Pending
+79,79,Debit Card,2024-10-03,2850,Success
+80,80,UPI,2024-10-04,6499,Success
+81,81,Credit Card,2024-10-05,3798,Success
+82,82,Cash on Delivery,2024-10-06,1899,Success
+83,83,UPI,2024-10-07,29999,Pending
+84,84,Net Banking,2024-10-08,5348,Success
+85,85,Debit Card,2024-10-09,699,Success
+86,86,UPI,2024-10-10,9998,Success
+87,87,Credit Card,2024-10-11,2199,Success
+88,88,UPI,2024-10-12,14998,Success
+89,89,Debit Card,2024-10-13,1599,Success
+90,90,UPI,2024-10-14,7999,Success
+91,91,Net Banking,2024-10-15,26999,Pending
+92,92,Credit Card,2024-10-16,3499,Success
+93,93,UPI,2024-10-17,5348,Success
+94,94,Debit Card,2024-10-18,12498,Success
+95,95,UPI,2024-10-19,2850,Success
+96,96,Credit Card,2024-10-20,6499,Success
+97,97,Cash on Delivery,2024-10-21,1899,Success
+98,98,UPI,2024-10-22,9998,Success
+99,99,Net Banking,2024-10-23,4998,Pending
+100,100,Debit Card,2024-10-24,799,Success

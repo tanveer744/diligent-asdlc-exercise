@@ -1,0 +1,51 @@
+user_id,name,email,phone,address,city,state,pincode
+1,Rajesh Kumar,rajesh.kumar@gmail.com,9876543210,"MG Road, Sector 14",Mumbai,Maharashtra,400001
+2,Priya Sharma,priya.sharma@yahoo.com,9876543211,"Church Street, Koramangala",Bangalore,Karnataka,560034
+3,Amit Patel,amit.patel@gmail.com,9876543212,"CG Road, Navrangpura",Ahmedabad,Gujarat,380009
+4,Sneha Reddy,sneha.reddy@outlook.com,9876543213,"Banjara Hills Road 12",Hyderabad,Telangana,500034
+5,Vikram Singh,vikram.singh@gmail.com,9876543214,"Connaught Place, Block A",New Delhi,Delhi,110001
+6,Kavita Nair,kavita.nair@gmail.com,9876543215,"MG Road, Fort",Kochi,Kerala,682001
+7,Rohit Gupta,rohit.gupta@rediffmail.com,9876543216,"Park Street, Central",Kolkata,West Bengal,700016
+8,Anjali Desai,anjali.desai@gmail.com,9876543217,"FC Road, Deccan",Pune,Maharashtra,411004
+9,Sanjay Rao,sanjay.rao@gmail.com,9876543218,"Anna Salai, T Nagar",Chennai,Tamil Nadu,600017
+10,Meera Iyer,meera.iyer@hotmail.com,9876543219,"Residency Road, Shanthinagar",Bangalore,Karnataka,560025
+11,Karan Mehta,karan.mehta@gmail.com,9876543220,"SG Highway, Bodakdev",Ahmedabad,Gujarat,380054
+12,Pooja Joshi,pooja.joshi@gmail.com,9876543221,"Linking Road, Bandra",Mumbai,Maharashtra,400050
+13,Arjun Kapoor,arjun.kapoor@yahoo.com,9876543222,"Cyber City, DLF Phase 2",Gurugram,Haryana,122002
+14,Divya Menon,divya.menon@gmail.com,9876543223,"Infopark Road, Kakkanad",Kochi,Kerala,682030
+15,Nikhil Verma,nikhil.verma@gmail.com,9876543224,"Salt Lake, Sector V",Kolkata,West Bengal,700091
+16,Ravi Shankar,ravi.shankar@gmail.com,9876543225,"JP Nagar, 5th Phase",Bangalore,Karnataka,560078
+17,Neha Agarwal,neha.agarwal@gmail.com,9876543226,"Vastrapur, Near Lake",Ahmedabad,Gujarat,380015
+18,Aditya Malhotra,aditya.malhotra@rediffmail.com,9876543227,"Saket, Select City Walk",New Delhi,Delhi,110017
+19,Shruti Pillai,shruti.pillai@yahoo.com,9876543228,"Marine Drive, Netaji Nagar",Kochi,Kerala,682020
+20,Manish Tiwari,manish.tiwari@gmail.com,9876543229,"Gomti Nagar, Viraj Khand",Lucknow,Uttar Pradesh,226010
+21,Isha Bhatt,isha.bhatt@outlook.com,9876543230,"Satellite Road, Jodhpur",Ahmedabad,Gujarat,380015
+22,Gaurav Saxena,gaurav.saxena@gmail.com,9876543231,"Hazratganj, Chowk",Lucknow,Uttar Pradesh,226001
+23,Tanvi Kulkarni,tanvi.kulkarni@gmail.com,9876543232,"Viman Nagar, Clover Park",Pune,Maharashtra,411014
+24,Rahul Jain,rahul.jain@gmail.com,9876543233,"Civil Lines, Mall Road",Jaipur,Rajasthan,302006
+25,Simran Kaur,simran.kaur@hotmail.com,9876543234,"Model Town, Club Road",Ludhiana,Punjab,141002
+26,Abhishek Dubey,abhishek.dubey@gmail.com,9876543235,"Indira Nagar, Sector 21",Lucknow,Uttar Pradesh,226016
+27,Ritika Sinha,ritika.sinha@gmail.com,9876543236,"Patna Junction, Fraser Road",Patna,Bihar,800001
+28,Deepak Chopra,deepak.chopra@yahoo.com,9876543237,"Sector 17, City Centre",Chandigarh,Chandigarh,160017
+29,Priyanka Bose,priyanka.bose@gmail.com,9876543238,"Ballygunge, Gariahat Road",Kolkata,West Bengal,700019
+30,Varun Khanna,varun.khanna@gmail.com,9876543239,"Rajouri Garden, Metro Station",New Delhi,Delhi,110027
+31,Swati Pandey,swati.pandey@gmail.com,9876543240,"Boring Road, Dak Bungalow",Patna,Bihar,800001
+32,Harsh Trivedi,harsh.trivedi@rediffmail.com,9876543241,"Maninagar, Kankaria Lake",Ahmedabad,Gujarat,380008
+33,Nisha Chatterjee,nisha.chatterjee@gmail.com,9876543242,"Esplanade, BBD Bagh",Kolkata,West Bengal,700001
+34,Kunal Mishra,kunal.mishra@outlook.com,9876543243,"Aliganj, Sector K",Lucknow,Uttar Pradesh,226024
+35,Pallavi Rane,pallavi.rane@gmail.com,9876543244,"Karve Nagar, Warje",Pune,Maharashtra,411052
+36,Vishal Goel,vishal.goel@gmail.com,9876543245,"Sector 62, Noida City Centre",Noida,Uttar Pradesh,201301
+37,Ananya Das,ananya.das@gmail.com,9876543246,"VIP Road, Action Area",Kolkata,West Bengal,700156
+38,Siddharth Shah,siddharth.shah@yahoo.com,9876543247,"Prahlad Nagar, Shyamal Cross",Ahmedabad,Gujarat,380015
+39,Aarti Pillai,aarti.pillai@gmail.com,9876543248,"Thiruvanmiyur, ECR Road",Chennai,Tamil Nadu,600041
+40,Tarun Bansal,tarun.bansal@gmail.com,9876543249,"Vaishali Nagar, Sector 5",Jaipur,Rajasthan,302021
+41,Megha Saxena,megha.saxena@hotmail.com,9876543250,"Aashiana Colony, Sector A",Lucknow,Uttar Pradesh,226012
+42,Ashish Kumar,ashish.kumar@gmail.com,9876543251,"Boring Canal Road, Sri Krishna Nagar",Patna,Bihar,800001
+43,Sonali Thakur,sonali.thakur@gmail.com,9876543252,"Kankarbagh, Exhibition Road",Patna,Bihar,800020
+44,Mohit Arora,mohit.arora@rediffmail.com,9876543253,"Pitampura, Rohini West",New Delhi,Delhi,110034
+45,Ritu Singh,ritu.singh@gmail.com,9876543254,"Hazratganj, Nirala Nagar",Lucknow,Uttar Pradesh,226020
+46,Rajeev Nambiar,rajeev.nambiar@gmail.com,9876543255,"Kakkanad, Seaport Airport Road",Kochi,Kerala,682037
+47,Lakshmi Iyer,lakshmi.iyer@yahoo.com,9876543256,"Adyar, Lattice Bridge Road",Chennai,Tamil Nadu,600020
+48,Puneet Sharma,puneet.sharma@gmail.com,9876543257,"Sector 18, Atta Market",Noida,Uttar Pradesh,201301
+49,Chetna Gupta,chetna.gupta@outlook.com,9876543258,"Hinjewadi Phase 1, Rajiv Gandhi Infotech",Pune,Maharashtra,411057
+50,Naveen Reddy,naveen.reddy@gmail.com,9876543259,"Madhapur, HITEC City",Hyderabad,Telangana,500081
